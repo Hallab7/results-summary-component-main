@@ -234,7 +234,7 @@ h4 {
         display: block;
         height: auto;
         min-height: 100vh;
-        background-color: hsl(241, 100%, 89%);
+        background-color: white;
     }
     .container {
         height: auto;
